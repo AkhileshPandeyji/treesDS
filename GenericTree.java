@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class TreeConstruct {
+public class GenericTree {
 public static class Node{
 	int data;
 	ArrayList<Node> children = new ArrayList<>();
